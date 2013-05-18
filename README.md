@@ -13,12 +13,15 @@ Controls:
 ESC – Exit program
 
 F1 – Take screen shot jpg
+
 F2 – Take screen shot bmp
 
 F5 – Turn on shadows
+
 F6 – Turn of shadows
 
 F7 – Show HUD
+
 F8 – Remove HUD
 
 Use arrow keys to move around. 
