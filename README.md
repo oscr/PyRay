@@ -3,7 +3,12 @@
 PyRay is a ray casting engine (http://en.wikipedia.org/wiki/Ray_casting
 ) written in Python using the PyGame library (http://www.pygame.org/wiki/about). This is the technology used in for example in Wolfenstien (http://en.wikipedia.org/wiki/Wolfenstein_3-D).
 
-Screenshots: https://github.com/oscr/PyRay/tree/master/screenshots
+###Screenshots from the game:
+![In game screenshot](https://raw.githubusercontent.com/oscr/PyRay/master/screenshots/PyRay20130518111624.jpeg)
+
+![In game screenshot](https://raw.githubusercontent.com/oscr/PyRay/master/screenshots/PyRay20130518111712.jpeg)
+
+![In game screenshot](https://raw.githubusercontent.com/oscr/PyRay/master/screenshots/PyRay20130518111704.jpeg)
 
 I wrote this a few years ago as a school project when I was just learning Python. Therefor not all code might be considered best practice. I don't have the time or interest to continue developing it right now, however I hope that someone will find the code useful!
 
