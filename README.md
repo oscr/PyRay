@@ -1,7 +1,7 @@
 ## PyRay - Python Raycasting Engine
 
 PyRay is a ray casting engine (http://en.wikipedia.org/wiki/Ray_casting
-) written in Python using the PyGame library (http://www.pygame.org/wiki/about). This is the technology used in for example in Wolfenstien (http://en.wikipedia.org/wiki/Wolfenstein_3-D).
+) written in Python using the PyGame library (http://www.pygame.org/wiki/about). This is the technology used in for example in Wolfenstein (http://en.wikipedia.org/wiki/Wolfenstein_3-D).
 
 ###Screenshots from the game:
 ![In game screenshot](https://raw.githubusercontent.com/oscr/PyRay/master/screenshots/PyRay20130518111624.jpeg)
